@@ -1,1 +1,1 @@
-# gii---curd
+# yii2basic
